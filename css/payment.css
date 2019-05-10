@@ -1,0 +1,83 @@
+#main_paymentAdmin .category{
+	padding-top: 50px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    height: 175px;
+    padding: 1%;
+    margin-top: 3%;
+    font-size: 1.2em;
+    text-align: center;
+}
+ #main_paymentAdmin{
+    margin: 0 auto;
+}
+#main_paymentAdmin h3{
+    margin-top: 100px;
+    text-align: center;
+    padding: 10px;
+}
+
+#main_paymentAdmin .category{
+    border: 1px solid black;
+    box-sizing: border-box;
+    height: 175px;
+    padding: 1%;
+    margin-top: 3%;
+
+    font-size: 1.2em;
+    text-align: center;
+
+    background-color: #fff;
+    transition: all 1s ease;
+}
+
+#main_paymentAdmin .category a{
+    border: 1px solid;
+    padding: 5px 0;
+    background-color: rgb(252, 184, 83);
+}
+.category a{
+    transition: all .5s ease;
+}
+.category a:hover{
+    color: #fff;
+    cursor: pointer;
+}
+
+#main_paymentAdmin a:hover{
+    color: blue;
+}
+
+#submitmsg {
+	 margin-left:100px;
+	 width: 150px;
+	 text-align: center;
+	 
+	
+}
+
+.panel-primary>.payment-heading {
+    color: #333333;
+    background-color: rgb(252,184,83);
+	
+   
+}
+.panel-primary {
+	border: 1px solid #ccc;
+	
+	
+}
+.panel-footer {
+	background-color: #fff;
+}
+
+p {
+	margin:0;
+	
+}
+h4 {
+	margin:0;
+	padding-top:20px;
+	
+}
+

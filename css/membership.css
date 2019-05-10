@@ -1,0 +1,35 @@
+
+
+.member-wrapper {
+    margin: 40px;
+}
+
+.benefits {
+  word-wrap: break-word;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th, td {
+ 
+ text-align: left;
+  padding: 8px;
+}
+#membership_button {
+	width:200px;
+	height:40px;
+}
+#select_membership {
+	width:300px;
+}
+#ak_membership_but {
+  width: 40%;
+  height:40px;  
+  
+  
+}
+
+
